@@ -1,0 +1,27 @@
+body {
+    background-color: #000000;
+}
+
+.container {
+    background-color: #FFF;
+}
+
+img
+        {
+            width: 200px;
+        }
+
+.myimg 
+    {
+        width: 300px;
+    }
+
+.myimg2 
+    {
+        width: 1200px;
+    }
+
+.myimg3 
+    {
+        width: 600px;
+    }
